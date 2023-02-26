@@ -21,8 +21,14 @@ Now for Termux you can remove the sudo command, so it will be like this
   ```
   $ python3 install.py
   ```
-  
+
 And yes, you can run the tools
+
+Btw, if you use Kali Linux, you can type
+  ```
+  $ sudo python3 mkit.py
+  ```
+to prevent errors when the installer tools
 
 Happy Use :)
 
