@@ -31,6 +31,9 @@ Btw, if you use Kali Linux, you can type
 to prevent errors when the installer tools
 
 Happy Use :)
+  ```
+  help : to open the tools guide
+  ```
 
 # tools appearance
 <p align="center">
